@@ -1,4 +1,4 @@
-<h3>IP and Domain Lookup using AWS Lambda API</h3>" project is a serverless application that allows users to query information about IP addresses and domains. The application is built using Node.js and the Axios library, and it uses the ipapi.com API to perform the queries.
+<h3>IP and Domain Lookup using AWS Lambda API</h3> project is a serverless application that allows users to query information about IP addresses and domains. The application is built using Node.js and the Axios library, and it uses the ipapi.com API to perform the queries.
 
 To use this code in AWS Lambda, follow these steps:
 
