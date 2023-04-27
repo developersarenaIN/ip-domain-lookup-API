@@ -1,4 +1,4 @@
-The "<h3>IP and Domain Lookup using AWS Lambda API</h3>" project is a serverless application that allows users to query information about IP addresses and domains. The application is built using Node.js and the Axios library, and it uses the ipapi.com API to perform the queries.
+"<h3>IP and Domain Lookup using AWS Lambda API</h3>" project is a serverless application that allows users to query information about IP addresses and domains. The application is built using Node.js and the Axios library, and it uses the ipapi.com API to perform the queries.
 
 To use this code in AWS Lambda, follow these steps:
 
@@ -24,6 +24,9 @@ Deploy the API to a new or existing stage.
 Test the API by sending a GET request to the IP lookup endpoint with the ip query parameter (e.g., https://<API ID>.execute-api.<AWS Region>.amazonaws.com/<stage>/iplookup?ip=8.8.8.8).
 
 one more thing for example this is my base url "https://ipapi.com/ip_api.php?ip=" when ever api is dead replace with other api which offer free services there are many sites in internet just find and use. 
+
+
+npm install axios export
 
 TEST WITHOUT IP 
 https://pmn9sul7y5.execute-api.ap-south-1.amazonaws.com/default/ir?ip=
